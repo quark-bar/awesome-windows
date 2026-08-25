@@ -92,6 +92,7 @@
 
 ## Developer Tools
 
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Shows current Codex quota windows and reset times in a tray overlay and local dashboard.
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client.
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
