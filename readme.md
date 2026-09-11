@@ -74,6 +74,7 @@
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher.
 - [Listery](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ### Terminal
 
