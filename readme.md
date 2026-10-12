@@ -68,6 +68,7 @@
 
 ### Productivity
 
+- [Awayra](https://awayra.pages.dev/) - Open-source eye and movement break reminders with independent timers.
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer.
