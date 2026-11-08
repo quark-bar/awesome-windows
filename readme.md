@@ -71,6 +71,8 @@
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer.
+- [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Opens apps, browser profiles, and URLs in chosen display layouts using a configurable hold shortcut (preview).
+
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher.
 - [Listery](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
